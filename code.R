@@ -1,6 +1,7 @@
 ## Sample R Code for Git & GitHub Training
 # Urban Institute
 # 8/30/2016
+## L. Hendey
 
 ## Load libraries
 library(dplyr)
